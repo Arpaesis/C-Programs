@@ -13,5 +13,6 @@ int main()
     scanf("%d", &input);
 
     printf("the number you gave is: %d\n", input);
+
     return 0;
 }
